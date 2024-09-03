@@ -1,0 +1,12 @@
+{
+  "name": "ebooks",
+  "version": "1.0.0",
+  "description": "优质书籍推荐",
+  "main": "index.js",
+  "scripts": {
+    "update": "node build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "likaihua",
+  "license": "ISC"
+}
