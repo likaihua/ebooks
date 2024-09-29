@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "update": "node build/index.js",
+    "build": "npm run update",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "likaihua",
-  "license": "ISC"
+  "license": "MIT"
 }
